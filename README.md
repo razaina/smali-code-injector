@@ -1,4 +1,6 @@
 # smali-code-injector
+## Still in development. The README will be updated soon.
+
 Script to perform code injection in Android apps. 
 
 The code injection is performed on the assembly level of an app. Therefore an user needs first to de-assembly an app in order to get its .smali assembly files. For this task, I highly recommand to use **smali/baksmali** which are respectively an Android assembler/de-assembler natively present in the **Santoku Linux distribution**. 
